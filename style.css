@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding:0;
+    }
+ 
+ 
+ .cabeçalho{
+     background-color: #94e1ff;
+     color: rgb(241, 26, 127);
+     display:flex;
+     justify-content: space-around;
+     padding: 24px 0;
+ }
+ 
+  .cabeçalho-lista-item{
+     display: inline-block;
+     margin: 0 130px;
+     font-size: 24px;
+  }
+ 
+  
+  .escola{
+    background-image: linear-gradient(#ffffff, #ffffff);
+     color: rgb(7, 105, 185);
+     display: flex;
+    
+  }
